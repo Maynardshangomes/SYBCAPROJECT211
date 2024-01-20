@@ -11,5 +11,12 @@ public class add {
 		System.out.println("answer" +num);
 		
 	}
+	void substract() {
+		int num1=5;
+		int num2=2;
+		int num= num1-num2;
+		System.out.println("answer" +num);
+	}
+	
 
 }
